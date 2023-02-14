@@ -105,6 +105,7 @@ const Todo = () => {
                     />
                     <div className="listData-flex">
                       <h3
+                        className="list-item-line"
                         style={
                           ele.checked
                             ? { textDecoration: "line-through" }
