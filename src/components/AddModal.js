@@ -22,7 +22,6 @@ const AddModal = (props) => {
   const checked = false;
 
   return (
-    // <div>
     <Modal className="addItems" open={open} onClose={onClose}>
       <Box sx={style}>
         <form>
@@ -57,7 +56,6 @@ const AddModal = (props) => {
                     dateTime: dateTime,
                     checked: checked,
                   }
-                  // inputData, dateTime, checked
                 ),
                 setInputData(""),
                 setDateTime(""),
@@ -71,7 +69,6 @@ const AddModal = (props) => {
         </div>
       </Box>
     </Modal>
-    // </div>
   );
 };
 

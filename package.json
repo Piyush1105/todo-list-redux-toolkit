@@ -1,8 +1,8 @@
 {
-  "name": "todo-list-redux",
+  "name": "todo-list-redux-toolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://piyush1105.github.io/todo-list-redux",
+  "homepage": "https://piyush1105.github.io/todo-list-redux-toolkit",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
